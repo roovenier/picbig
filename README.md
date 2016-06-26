@@ -19,3 +19,7 @@ With title mark:
 ```xml
 <Picbig small="/examples/images/image1_s.jpg" big="/examples/images/image1_b.jpg" title="Star Wars" />
 ```
+
+## Demo
+
+https://roovenier.github.io/picbig/
