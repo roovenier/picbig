@@ -8,7 +8,17 @@ export default class App extends Component {
 				<nav className="navbar navbar-inverse">
 					<div className="container">
 						<div className="navbar-header">
-							<a className="navbar-brand" href="/">Picbig</a>
+							<a className="navbar-brand" href="https://roovenier.github.io/picbig/">Picbig</a>
+						</div>
+
+						<div id="navbar" className="collapse navbar-collapse">
+							<ul className="nav navbar-nav">
+								<li><a href="https://github.com/roovenier/picbig">View on GitHub</a></li>
+
+								<li><a href="https://github.com/roovenier/picbig/zipball/master">Download .zip</a></li>
+
+								<li><a href="https://github.com/roovenier/picbig/tarball/master">Download .tar.gz</a></li>
+							</ul>
 						</div>
 					</div>
 				</nav>
