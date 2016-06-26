@@ -1,0 +1,43 @@
+{
+  "name": "picbig",
+  "version": "1.0.0",
+  "description": "Simple react lightbox component",
+  "main": "./lib/index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roovenier/picbig.git"
+  },
+  "homepage": "https://github.com/roovenier/picbig",
+  "bugs": {
+    "url": "https://github.com/roovenier/picbig/issues"
+  },
+  "author": "Alex Oshchepkov <fastex93@gmail.com> (http://github.com/roovenier)",
+  "license": "MIT",
+  "keywords": [
+    "lightbox",
+    "picture",
+    "image",
+    "modal",
+    "react",
+    "reactjs"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.0.20",
+    "babel-eslint": "^4.1.3",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.0.15",
+    "babel-preset-react": "^6.0.15",
+    "babel-preset-stage-0": "^6.0.15",
+    "eslint": "^1.10.3",
+    "eslint-plugin-react": "^3.6.2",
+    "file-loader": "^0.9.0",
+    "react-hot-loader": "^1.3.0",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  }
+}
