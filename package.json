@@ -1,6 +1,6 @@
 {
   "name": "picbig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple react lightbox component",
   "main": "./lib/index",
   "repository": {
